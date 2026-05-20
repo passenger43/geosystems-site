@@ -2,6 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://geosystems-studio.ru/</loc>
-    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://geosystems-studio.ru/en.html</loc>
+  </url>
+  <url>
+    <loc>https://geosystems-studio.ru/offer.html</loc>
+  </url>
+  <url>
+    <loc>https://geosystems-studio.ru/offer-en.html</loc>
+  </url>
+  <url>
+    <loc>https://geosystems-studio.ru/privacy.html</loc>
+  </url>
+  <url>
+    <loc>https://geosystems-studio.ru/privacy-en.html</loc>
+  </url>
+  <url>
+    <loc>https://geosystems-studio.ru/payment-and-refund.html</loc>
+  </url>
+  <url>
+    <loc>https://geosystems-studio.ru/payment-and-refund-en.html</loc>
   </url>
 </urlset>
