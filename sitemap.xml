@@ -24,4 +24,16 @@
   <url>
     <loc>https://geosystems-studio.ru/payment-and-refund-en.html</loc>
   </url>
+  <url>
+    <loc>https://geosystems-studio.ru/payment-success.html</loc>
+  </url>
+  <url>
+    <loc>https://geosystems-studio.ru/payment-success-en.html</loc>
+  </url>
+  <url>
+    <loc>https://geosystems-studio.ru/payment-fail.html</loc>
+  </url>
+  <url>
+    <loc>https://geosystems-studio.ru/payment-fail-en.html</loc>
+  </url>
 </urlset>
