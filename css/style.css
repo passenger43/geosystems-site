@@ -77,6 +77,26 @@ img {
   color: white;
 }
 
+.header-download {
+  min-height: 40px;
+  padding: 0 18px;
+  border-radius: 999px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: #ff8a00;
+  color: #151515;
+  font-size: 14px;
+  font-weight: 900;
+  white-space: nowrap;
+  transition: 0.2s ease;
+}
+
+.header-download:hover {
+  background: #ffa533;
+  transform: translateY(-1px);
+}
+
 .lang-switch {
   display: inline-flex;
   align-items: center;
@@ -860,6 +880,10 @@ section {
     gap: 14px;
   }
 
+  .header-download {
+    margin-left: auto;
+  }
+
   .hero {
     min-height: auto;
     padding: 52px 0 64px;
@@ -929,8 +953,14 @@ section {
     display: none;
   }
 
+  .header-download {
+    min-height: 36px;
+    padding: 0 14px;
+    font-size: 13px;
+  }
+
   .lang-switch {
-    margin-left: auto;
+    margin-left: 0;
   }
 
   .lang-link {
