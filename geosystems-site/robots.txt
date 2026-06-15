@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://geosystems-studio.ru/sitemap.xml
