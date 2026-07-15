@@ -1,24 +1,275 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://geosystems-studio.ru/index.html</loc></url>
-  <url><loc>https://geosystems-studio.ru/index-en.html</loc></url>
-  <url><loc>https://geosystems-studio.ru/index-zh.html</loc></url>
-  <url><loc>https://geosystems-studio.ru/tsgo.html</loc></url>
-  <url><loc>https://geosystems-studio.ru/tsgo-en.html</loc></url>
-  <url><loc>https://geosystems-studio.ru/tsgo-zh.html</loc></url>
-  <url><loc>https://geosystems-studio.ru/nivelir.html</loc></url>
-  <url><loc>https://geosystems-studio.ru/nivelir-en.html</loc></url>
-  <url><loc>https://geosystems-studio.ru/nivelir-zh.html</loc></url>
-  <url><loc>https://geosystems-studio.ru/download.html</loc></url>
-  <url><loc>https://geosystems-studio.ru/download-en.html</loc></url>
-  <url><loc>https://geosystems-studio.ru/download-zh.html</loc></url>
-  <url><loc>https://geosystems-studio.ru/offer.html</loc></url>
-  <url><loc>https://geosystems-studio.ru/offer-en.html</loc></url>
-  <url><loc>https://geosystems-studio.ru/offer-zh.html</loc></url>
-  <url><loc>https://geosystems-studio.ru/privacy.html</loc></url>
-  <url><loc>https://geosystems-studio.ru/privacy-en.html</loc></url>
-  <url><loc>https://geosystems-studio.ru/privacy-zh.html</loc></url>
-  <url><loc>https://geosystems-studio.ru/payment-and-refund.html</loc></url>
-  <url><loc>https://geosystems-studio.ru/payment-and-refund-en.html</loc></url>
-  <url><loc>https://geosystems-studio.ru/payment-and-refund-zh.html</loc></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://geosystems-studio.ru/</loc>
+    <lastmod>2026-07-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://geosystems-studio.ru/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://geosystems-studio.ru/index-en.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://geosystems-studio.ru/index-zh.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://geosystems-studio.ru/index-es.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://geosystems-studio.ru/index-pt.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://geosystems-studio.ru/index-en.html" />
+  </url>
+  <url>
+    <loc>https://geosystems-studio.ru/index-en.html</loc>
+    <lastmod>2026-07-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://geosystems-studio.ru/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://geosystems-studio.ru/index-en.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://geosystems-studio.ru/index-zh.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://geosystems-studio.ru/index-es.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://geosystems-studio.ru/index-pt.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://geosystems-studio.ru/index-en.html" />
+  </url>
+  <url>
+    <loc>https://geosystems-studio.ru/index-zh.html</loc>
+    <lastmod>2026-07-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://geosystems-studio.ru/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://geosystems-studio.ru/index-en.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://geosystems-studio.ru/index-zh.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://geosystems-studio.ru/index-es.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://geosystems-studio.ru/index-pt.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://geosystems-studio.ru/index-en.html" />
+  </url>
+  <url>
+    <loc>https://geosystems-studio.ru/index-es.html</loc>
+    <lastmod>2026-07-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://geosystems-studio.ru/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://geosystems-studio.ru/index-en.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://geosystems-studio.ru/index-zh.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://geosystems-studio.ru/index-es.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://geosystems-studio.ru/index-pt.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://geosystems-studio.ru/index-en.html" />
+  </url>
+  <url>
+    <loc>https://geosystems-studio.ru/index-pt.html</loc>
+    <lastmod>2026-07-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://geosystems-studio.ru/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://geosystems-studio.ru/index-en.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://geosystems-studio.ru/index-zh.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://geosystems-studio.ru/index-es.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://geosystems-studio.ru/index-pt.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://geosystems-studio.ru/index-en.html" />
+  </url>
+  <url>
+    <loc>https://geosystems-studio.ru/tsgo.html</loc>
+    <lastmod>2026-07-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://geosystems-studio.ru/tsgo.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://geosystems-studio.ru/tsgo-en.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://geosystems-studio.ru/tsgo-zh.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://geosystems-studio.ru/tsgo-es.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://geosystems-studio.ru/tsgo-pt.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://geosystems-studio.ru/tsgo-en.html" />
+  </url>
+  <url>
+    <loc>https://geosystems-studio.ru/tsgo-en.html</loc>
+    <lastmod>2026-07-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://geosystems-studio.ru/tsgo.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://geosystems-studio.ru/tsgo-en.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://geosystems-studio.ru/tsgo-zh.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://geosystems-studio.ru/tsgo-es.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://geosystems-studio.ru/tsgo-pt.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://geosystems-studio.ru/tsgo-en.html" />
+  </url>
+  <url>
+    <loc>https://geosystems-studio.ru/tsgo-zh.html</loc>
+    <lastmod>2026-07-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://geosystems-studio.ru/tsgo.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://geosystems-studio.ru/tsgo-en.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://geosystems-studio.ru/tsgo-zh.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://geosystems-studio.ru/tsgo-es.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://geosystems-studio.ru/tsgo-pt.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://geosystems-studio.ru/tsgo-en.html" />
+  </url>
+  <url>
+    <loc>https://geosystems-studio.ru/tsgo-es.html</loc>
+    <lastmod>2026-07-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://geosystems-studio.ru/tsgo.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://geosystems-studio.ru/tsgo-en.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://geosystems-studio.ru/tsgo-zh.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://geosystems-studio.ru/tsgo-es.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://geosystems-studio.ru/tsgo-pt.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://geosystems-studio.ru/tsgo-en.html" />
+  </url>
+  <url>
+    <loc>https://geosystems-studio.ru/tsgo-pt.html</loc>
+    <lastmod>2026-07-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://geosystems-studio.ru/tsgo.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://geosystems-studio.ru/tsgo-en.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://geosystems-studio.ru/tsgo-zh.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://geosystems-studio.ru/tsgo-es.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://geosystems-studio.ru/tsgo-pt.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://geosystems-studio.ru/tsgo-en.html" />
+  </url>
+  <url>
+    <loc>https://geosystems-studio.ru/nivelir.html</loc>
+    <lastmod>2026-07-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://geosystems-studio.ru/nivelir.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://geosystems-studio.ru/nivelir-en.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://geosystems-studio.ru/nivelir-zh.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://geosystems-studio.ru/nivelir-es.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://geosystems-studio.ru/nivelir-pt.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://geosystems-studio.ru/nivelir-en.html" />
+  </url>
+  <url>
+    <loc>https://geosystems-studio.ru/nivelir-en.html</loc>
+    <lastmod>2026-07-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://geosystems-studio.ru/nivelir.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://geosystems-studio.ru/nivelir-en.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://geosystems-studio.ru/nivelir-zh.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://geosystems-studio.ru/nivelir-es.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://geosystems-studio.ru/nivelir-pt.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://geosystems-studio.ru/nivelir-en.html" />
+  </url>
+  <url>
+    <loc>https://geosystems-studio.ru/nivelir-zh.html</loc>
+    <lastmod>2026-07-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://geosystems-studio.ru/nivelir.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://geosystems-studio.ru/nivelir-en.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://geosystems-studio.ru/nivelir-zh.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://geosystems-studio.ru/nivelir-es.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://geosystems-studio.ru/nivelir-pt.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://geosystems-studio.ru/nivelir-en.html" />
+  </url>
+  <url>
+    <loc>https://geosystems-studio.ru/nivelir-es.html</loc>
+    <lastmod>2026-07-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://geosystems-studio.ru/nivelir.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://geosystems-studio.ru/nivelir-en.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://geosystems-studio.ru/nivelir-zh.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://geosystems-studio.ru/nivelir-es.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://geosystems-studio.ru/nivelir-pt.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://geosystems-studio.ru/nivelir-en.html" />
+  </url>
+  <url>
+    <loc>https://geosystems-studio.ru/nivelir-pt.html</loc>
+    <lastmod>2026-07-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://geosystems-studio.ru/nivelir.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://geosystems-studio.ru/nivelir-en.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://geosystems-studio.ru/nivelir-zh.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://geosystems-studio.ru/nivelir-es.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://geosystems-studio.ru/nivelir-pt.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://geosystems-studio.ru/nivelir-en.html" />
+  </url>
+  <url>
+    <loc>https://geosystems-studio.ru/download.html</loc>
+    <lastmod>2026-07-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://geosystems-studio.ru/download.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://geosystems-studio.ru/download-en.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://geosystems-studio.ru/download-zh.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://geosystems-studio.ru/download-es.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://geosystems-studio.ru/download-pt.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://geosystems-studio.ru/download-en.html" />
+  </url>
+  <url>
+    <loc>https://geosystems-studio.ru/download-en.html</loc>
+    <lastmod>2026-07-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://geosystems-studio.ru/download.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://geosystems-studio.ru/download-en.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://geosystems-studio.ru/download-zh.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://geosystems-studio.ru/download-es.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://geosystems-studio.ru/download-pt.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://geosystems-studio.ru/download-en.html" />
+  </url>
+  <url>
+    <loc>https://geosystems-studio.ru/download-zh.html</loc>
+    <lastmod>2026-07-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://geosystems-studio.ru/download.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://geosystems-studio.ru/download-en.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://geosystems-studio.ru/download-zh.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://geosystems-studio.ru/download-es.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://geosystems-studio.ru/download-pt.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://geosystems-studio.ru/download-en.html" />
+  </url>
+  <url>
+    <loc>https://geosystems-studio.ru/download-es.html</loc>
+    <lastmod>2026-07-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://geosystems-studio.ru/download.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://geosystems-studio.ru/download-en.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://geosystems-studio.ru/download-zh.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://geosystems-studio.ru/download-es.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://geosystems-studio.ru/download-pt.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://geosystems-studio.ru/download-en.html" />
+  </url>
+  <url>
+    <loc>https://geosystems-studio.ru/download-pt.html</loc>
+    <lastmod>2026-07-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://geosystems-studio.ru/download.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://geosystems-studio.ru/download-en.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://geosystems-studio.ru/download-zh.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://geosystems-studio.ru/download-es.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://geosystems-studio.ru/download-pt.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://geosystems-studio.ru/download-en.html" />
+  </url>
+  <url>
+    <loc>https://geosystems-studio.ru/offer.html</loc>
+    <lastmod>2026-07-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://geosystems-studio.ru/offer.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://geosystems-studio.ru/offer-en.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://geosystems-studio.ru/offer-zh.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://geosystems-studio.ru/offer-en.html" />
+  </url>
+  <url>
+    <loc>https://geosystems-studio.ru/offer-en.html</loc>
+    <lastmod>2026-07-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://geosystems-studio.ru/offer.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://geosystems-studio.ru/offer-en.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://geosystems-studio.ru/offer-zh.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://geosystems-studio.ru/offer-en.html" />
+  </url>
+  <url>
+    <loc>https://geosystems-studio.ru/offer-zh.html</loc>
+    <lastmod>2026-07-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://geosystems-studio.ru/offer.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://geosystems-studio.ru/offer-en.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://geosystems-studio.ru/offer-zh.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://geosystems-studio.ru/offer-en.html" />
+  </url>
+  <url>
+    <loc>https://geosystems-studio.ru/privacy.html</loc>
+    <lastmod>2026-07-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://geosystems-studio.ru/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://geosystems-studio.ru/privacy-en.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://geosystems-studio.ru/privacy-zh.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://geosystems-studio.ru/privacy-en.html" />
+  </url>
+  <url>
+    <loc>https://geosystems-studio.ru/privacy-en.html</loc>
+    <lastmod>2026-07-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://geosystems-studio.ru/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://geosystems-studio.ru/privacy-en.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://geosystems-studio.ru/privacy-zh.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://geosystems-studio.ru/privacy-en.html" />
+  </url>
+  <url>
+    <loc>https://geosystems-studio.ru/privacy-zh.html</loc>
+    <lastmod>2026-07-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://geosystems-studio.ru/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://geosystems-studio.ru/privacy-en.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://geosystems-studio.ru/privacy-zh.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://geosystems-studio.ru/privacy-en.html" />
+  </url>
+  <url>
+    <loc>https://geosystems-studio.ru/payment-and-refund.html</loc>
+    <lastmod>2026-07-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://geosystems-studio.ru/payment-and-refund.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://geosystems-studio.ru/payment-and-refund-en.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://geosystems-studio.ru/payment-and-refund-zh.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://geosystems-studio.ru/payment-and-refund-en.html" />
+  </url>
+  <url>
+    <loc>https://geosystems-studio.ru/payment-and-refund-en.html</loc>
+    <lastmod>2026-07-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://geosystems-studio.ru/payment-and-refund.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://geosystems-studio.ru/payment-and-refund-en.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://geosystems-studio.ru/payment-and-refund-zh.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://geosystems-studio.ru/payment-and-refund-en.html" />
+  </url>
+  <url>
+    <loc>https://geosystems-studio.ru/payment-and-refund-zh.html</loc>
+    <lastmod>2026-07-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://geosystems-studio.ru/payment-and-refund.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://geosystems-studio.ru/payment-and-refund-en.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://geosystems-studio.ru/payment-and-refund-zh.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://geosystems-studio.ru/payment-and-refund-en.html" />
+  </url>
 </urlset>
